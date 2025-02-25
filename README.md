@@ -35,9 +35,9 @@ Este proyecto fue desarrollado en **Java** utilizando **NetBeans**, un entorno d
 ## 📷 Ejemplo de Uso
 Agrega tus capturas de pantalla o GIFs del programa en acción aquí:
 
-![Imagen 1](ruta/a/imagen1.png)
-![Imagen 2](ruta/a/imagen2.png)
-![Imagen 3](ruta/a/imagen3.png)
+![Imagen 1](https://github.com/soyfafy/AutomatizacionRestaurante-ProyectoJava/blob/main/Screenshot%202025-02-24%20190828.png?raw=true)
+![Imagen 2](https://github.com/soyfafy/AutomatizacionRestaurante-ProyectoJava/blob/main/Screenshot%202025-02-24%20190838.png?raw=true)
+![Imagen 3](https://github.com/soyfafy/AutomatizacionRestaurante-ProyectoJava/blob/main/Screenshot%202025-02-24%20190842.png?raw=true)
 
 ## 📬 Contacto
 Si deseas conocer más sobre este y otros proyectos, puedes contactarme en:
